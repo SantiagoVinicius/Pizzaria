@@ -1,0 +1,23 @@
+index.html
+
+1-logotipo(cor branca, letra preta)
+2-titulo Super Pizza(branco)
+3-disk entrega:(19) 1234-5678(branco)
+4-Barra de home, quem somos, contato.(preto)
+5-Titulo A melhor pizza da região!(preto)
+6-linha de estilo/separação(preto)
+7-3 imagens de pizzas com suas legendas, calabresa, siciliana e portuguesa(preto)
+8- linha de estilo/sparação(preto)
+9-titulo nossos sabores(preto)
+10- lista com sabores de pizza(preto)
+11-titulo uma casa com história(preto)
+12-imagem
+13-texto introdutório da história(preto)
+14-link Conheça(vermelho)
+15-Aula do senac. Declaração de direitos autorais.(branco)
+16-fundo laranja
+17-cor do logotipo branca
+18- cor do cabeçalho laranja
+19-subcabeçalho cor amarelo
+20-resto do site branca
+21-aba da declaração de direitos cor preto.

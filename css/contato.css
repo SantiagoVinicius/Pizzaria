@@ -1,0 +1,254 @@
+*{
+    margin: 0px;
+    font-family: Verdana;
+    /*Color:Black*/
+}
+body{
+background: url(../images/fundo.jpg);
+line-height: 1.6;
+overflow-x: hidden;
+}
+
+.container-1{
+    margin: 0 auto;
+    width: 1000px;
+    height: 130px;
+    background: rgb(192, 63, 3);
+}
+
+.telefone{
+   position: absolute;
+   top: 30px;
+   right: 160px;
+   width: 375px;
+   list-style: none;
+   color: white;
+   font-size: 30px; 
+   letter-spacing: 2px;
+   text-align: center;
+   line-height: 40px;
+   font-size: 30px;
+}
+
+.logo{
+    position: absolute;
+    top: 15px;
+    right: 890px;
+    width: 250px;
+}
+
+.container-2{
+    margin: 0 auto;
+    width: 1000px;
+    height: 26px;
+    background: rgb(255, 174, 0)
+}
+
+.menu-principal{
+    list-style:none ;
+    display: flex;   
+}
+
+.menu-principal a{
+    color: black;
+    text-decoration: none;
+    padding:10px 1px 10px 10px ;  
+}
+
+.rodape{
+    margin: 0 auto;
+    width: 71.2%;
+    height: 30px;
+    background:rgb(53, 52, 52);
+    text-decoration: none;
+    padding:10px 0px 0px 40px;
+    color: white;
+}
+footer{
+    bottom: 100;
+    position: absolute;
+    top: 740px;
+}
+.container-3{
+    margin:  auto;
+    width: 1000px ;
+    background:white;
+    height: 600px;
+}
+
+.titulo{
+    font-size: 40px;
+    font-weight: 1;
+    position: relative;
+    top: 10px;
+    right: -40px;
+    line-height: 75px;
+    color: rgb(53, 52, 52); 
+    padding-bottom: 1px;
+    margin-bottom: 0px;
+    width:920px;
+}
+
+.texto ,h2{
+    font-weight: 1;
+    font-size: 20px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 10px;
+    right: -20px;
+    width: 450px;
+    line-height: 20px;
+    color: rgb(53, 52, 52);
+    margin: 0px 0px 10px 0px;
+}
+.ti{
+    top: 20px;
+}
+ .tex{
+    top: 20px;
+ }
+
+.texto ,h3{
+    font-weight: 1;
+    font-size: 15px;
+    margin-bottom: 30px;
+    position: relative;
+    right: -20px;
+    width: 450px;
+    line-height: 25px;
+    color: rgb(53, 52, 52);
+}
+
+
+.nome{
+    font-weight: 1;
+    font-size: 15px;
+    margin-bottom: 10px;
+    position: relative;
+    right: -10px;
+    width: 450px;
+    line-height: 25px;
+    color: rgb(53, 52, 52);
+    
+}
+
+.email{
+    font-weight: 1;
+    font-size: 15px;
+    margin-bottom: 10px;
+    position: relative;
+
+    right: -10px;
+    width: 450px;
+    line-height: 25px;
+    color: rgb(53, 52, 52);
+}
+
+.mensagem{
+    font-weight: 1;
+    font-size: 15px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 0px;
+    right: -10px;
+    width: 450px;
+    line-height: 25px;
+    color: rgb(53, 52, 52);
+}
+
+.env{
+    font-weight: 1;
+    font-size: 15px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 0px;
+    right: -10px;
+    width: 450px;
+    line-height: 25px;
+    color: rgb(53, 52, 52);
+}
+
+.end{
+    font-weight: 1;
+    font-size: 20px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 0px;
+    right: -20px;
+    width: 450px;
+    line-height: 25px;
+    color: rgb(53, 52, 52);
+}
+
+.google{
+    width: 300px;
+    height: 230px;
+    margin: 0px 0px 60px 0px;
+    
+}
+
+.coluna-esquerda{
+    box-sizing: border-box;
+    width: 605px;
+    display: inline-block;
+} 
+
+.coluna-direita{
+    box-sizing: border-box;
+    width: 200px;
+    display: inline-block;
+    
+}
+
+.nome{
+    margin: 10px;
+    top: 30px;
+}
+
+.email{
+    margin: 10px;
+    top: 30px;
+}
+
+.mensagem{
+    margin: 10px;
+    top: 40px;
+    
+}
+
+#nome , #email, #mensagem {
+    padding: 5px;
+    width: 300px;
+}
+
+
+.env{
+    margin: 10px;
+    top: 40px;
+    
+}
+ button{
+    padding: 5px 10px;
+    background: #777777;
+    color: white;
+    border: 0;
+}
+
+.info{
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    margin: -40px 0px 0px 0px;
+}
+
+
+
+.linha-1{
+    padding: 0.1px;
+    background: rgb(53, 52, 52);
+    border-color: rgb(53, 52, 52);
+    margin-bottom: 10px;
+    width: 159%;
+margin-left: 3%;
+    color: rgb(53, 52, 52);
+}

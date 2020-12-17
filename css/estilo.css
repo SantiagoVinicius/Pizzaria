@@ -1,0 +1,189 @@
+*{
+    margin: 0px;
+    font-family: Verdana;
+    /*Color:Black*/
+}
+body{
+background: url(../images/fundo.jpg);
+line-height: 1.6;
+overflow-x: hidden;
+}
+
+.container-1{
+    margin: 0 auto;
+    width: 1000px;
+    height: 130px;
+    background: rgb(192, 63, 3);
+}
+
+.telefone{
+   position: absolute;
+   top: 30px;
+   right: 160px;
+   width: 375px;
+   list-style: none;
+   color: white;
+   font-size: 30px; 
+   letter-spacing: 2px;
+   text-align: center;
+   line-height: 40px;
+   font-size: 30px;
+}
+
+.logo{
+    position: absolute;
+    top: 15px;
+    right: 890px;
+    width: 250px;
+}
+
+.container-2{
+    margin: 0 auto;
+    width: 1000px;
+    height: 26px;
+    background: rgb(255, 174, 0)
+}
+
+.menu-principal{
+    list-style:none ;
+    display: flex;   
+}
+
+.menu-principal a{
+    color: black;
+    text-decoration: none;
+    padding:10px 1px 10px 10px ;  
+
+
+
+}
+
+.container-3{
+    margin: 0 auto;
+    width: 1000px;
+    background:white;
+}
+
+.titulo{
+    font-size: 40px;
+    font-weight: 1;
+    margin-bottom: 0px;
+    position: relative;
+    top: 10px;
+    right: -40px;
+    line-height: 75px;
+    color: rgb(53, 52, 52);
+}
+
+.linha-1{
+    padding: 0.1px;
+    background: rgb(53, 52, 52);
+    border-color: rgb(53, 52, 52);
+    margin-bottom: 10px;
+    width: 96.5%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(53, 52, 52);
+}
+
+.lista-imagens{
+    list-style: none;
+    padding:0;
+display: flex;
+align-items: center;
+justify-content:space-around;
+flex-wrap: wrap;
+}
+
+.lista-imagens li{
+    display: inline;
+}
+
+.nome-pizzas{
+   list-style: none;
+   padding:0;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   color: rgb(53, 52, 52);
+}
+ 
+.linha-2{
+    padding: 0.1px;
+    background:rgb(53, 52, 52);
+    border-color:rgb(53, 52, 52);
+    margin-bottom: 10px;
+    width: 96.5%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(53, 52, 52);
+}
+
+.titulo-2{
+    font-size: 35px;
+    font-weight: 1;
+    margin-bottom: 20px;
+    position: relative;
+    top: 0px;
+    right: -40px;
+    line-height: 40px;
+    color: rgb(53, 52, 52);
+}
+
+.sabores{
+    display:inline;
+	float:left;
+	list-style:none;
+	text-align: left;
+	margin:10px; 
+    padding:1px;
+    columns: 3;    
+    color: rgb(53, 52, 52);
+}
+
+.titulo-3{
+    font-size: 35px;
+    font-weight: 1;
+    margin-bottom: -50px;
+    position: relative;
+    top: -59px;
+    right: -520px;
+    line-height: 40px;
+    color: rgb(53, 52, 52);   
+}
+
+
+
+.rodape{
+    margin: 0 auto;
+    width: 96%;
+    height: 30px;
+    background:rgb(53, 52, 52);
+    text-decoration: none;
+    padding:10px 0px 0px 40px;
+    color: white;
+
+}
+
+.texto-historia img{
+    float: left;
+   margin-right: 10px;
+}
+
+.texto-historia{
+    color: rgb(53, 52, 52);
+}
+.clear{
+clear: both;
+
+}
+
+.conheca{
+text-decoration: none;
+
+}
+
+.conheca:visited{
+    color: brown;
+}
